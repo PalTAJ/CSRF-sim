@@ -1,6 +1,6 @@
 # CSRF-sim
-##Task: 
-######Demonstrate a cross-site request forgery attack between a malicious server and a client.
+## Task: 
+###### Demonstrate a cross-site request forgery attack between a malicious server and a client.
 
 we have two folder - legit_site and fake_site
 
