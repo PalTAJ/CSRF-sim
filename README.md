@@ -1,6 +1,6 @@
 # CSRF-sim
 ## Task: 
-###### Demonstrate a cross-site request forgery attack between a malicious server and a client.
+##### Demonstrate a cross-site request forgery attack between a malicious server and a client.
 
 
 ## Description
@@ -24,7 +24,7 @@ type python app.py
 then go to your browser and navigate to: http://localhost:5005
 you will see a cat picture ik.
 
-simualtion:
+## Simualtion:
 
 both sites should be up while doing this, so dont quit any of the terminals.
 first, login to the storage system and go to my profile and check the password, it should be 123456
