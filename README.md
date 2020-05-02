@@ -7,7 +7,7 @@
 we have two folder - legit_site and fake_site
 
 
-legit site will be a website used by clients, its an online storage system mangement flask app i created for another class.
+legit site will be a website used by clients, its an online storage mangement system flask app i created for another class.
 to run it:
 go to src directory and open terminal/cmd/powershell
 type: python main.py run-api
