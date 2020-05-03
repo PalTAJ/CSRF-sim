@@ -7,7 +7,7 @@
 
 Source | status
 -------|-------
-Simulation of an CSRFa attack  | :white_check_mark:
+Simulation of an CSRF attack  | :white_check_mark:
 
 
 
