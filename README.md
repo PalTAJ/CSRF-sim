@@ -2,6 +2,14 @@
 ## Task: 
 ##### Demonstrate a cross-site request forgery attack between a malicious server and a client.
 
+## Status:
+
+
+Source | status
+-------|-------
+Simulation of an CSRFa attack  | :white_check_mark:
+
+
 
 ## Description
 we have two folder - legit_site and fake_site
